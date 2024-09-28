@@ -13,7 +13,7 @@
 
 <!-- - 😄 Pronouns: ... -->
 
-- ⚡ Fun fact: I'm Vocaloid(Broad definition) Otaku.🎤🟢🔴
+⚡ Fun fact: I'm Vocaloid(Broad definition) Otaku.🎤🟢🔴
 
 <!---
 hatimitu76/hatimitu76 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
