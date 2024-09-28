@@ -1,11 +1,18 @@
-- 👋 Hi, I’m @hatimitu76
-- 👀 I’m interested in frontend technology, headless CMS and docker.
-- 🌱 I’m currently learning Javascript, Typescript and Python.
+👋 Hi, I’m @hatimitu76
+
+👀 I’m interested in frontend technology, headless CMS and docker.
+
+🌱 I’m currently learning Javascript, Typescript and Python.
+
 <!-- - 💞️ I’m looking to collaborate on ... -->
-- 📫 How to reach me
-  - @hatimitu__bin for X
-  - [@hatimitu_76@misskey.io]() for fediverse(Mastodon, Misskey and etc...)
+
+📫 How to reach me
+
+- @hatimitu__bin for X
+- [@hatimitu_76@misskey.io]() for fediverse(Mastodon, Misskey and etc...)
+
 <!-- - 😄 Pronouns: ... -->
+
 - ⚡ Fun fact: I'm Vocaloid(Broad definition) Otaku.🎤🟢🔴
 
 <!---
