@@ -8,8 +8,8 @@
 
 📫 How to reach me
 
-- @hatimitu__bin for X
-- [@hatimitu_76@misskey.io]() for fediverse(Mastodon, Misskey and etc...)
+- [@hatimitu__bin](https://x.com/@hatimitu__bin) for X
+- [@hatimitu_76@misskey.io](https://misskey.io/@hatimitu_76) for fediverse(Mastodon, Misskey and etc...)
 
 <!-- - 😄 Pronouns: ... -->
 
