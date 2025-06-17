@@ -8,7 +8,7 @@
 
 📫 How to reach me
 
-- [@hatimitu__bin](https://x.com/@hatimitu__bin) for X
+- [@hatimitu__hat](https://x.com/@hatimitu__hat) for X
 - [@hatimitu_76@misskey.io](https://misskey.io/@hatimitu_76) for fediverse(Mastodon, Misskey and etc...)
 
 <!---
